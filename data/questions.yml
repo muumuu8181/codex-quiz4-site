@@ -1,0 +1,157 @@
+questions:
+  - id: 1
+    category: "化学"
+    question: "水の化学式はどれ？"
+    choices:
+      - "HO"
+      - "H2O"
+      - "H2O2"
+      - "OH2O"
+    answer: 1
+  - id: 2
+    category: "化学"
+    question: "食塩の主成分は？"
+    choices: ["NaCl", "KCl", "CaCO3", "Na2CO3"]
+    answer: 0
+  - id: 3
+    category: "化学"
+    question: "pH=7 の水溶液は？"
+    choices: ["酸性", "中性", "塩基性", "強酸性"]
+    answer: 1
+  - id: 4
+    category: "化学"
+    question: "炭酸の化学式は？"
+    choices: ["HCO3−", "H2CO3", "CO2", "CO3^2−"]
+    answer: 1
+  - id: 5
+    category: "化学"
+    question: "アボガドロ定数のオーダーは？"
+    choices: ["10^19", "10^20", "10^23", "10^26"]
+    answer: 2
+  - id: 6
+    category: "化学"
+    question: "酸化とは一般に何が増えること？"
+    choices: ["水素", "電子", "酸素", "中性子"]
+    answer: 2
+  - id: 7
+    category: "化学"
+    question: "塩酸の主成分は？"
+    choices: ["HCl", "HNO3", "H2SO4", "CH3COOH"]
+    answer: 0
+  - id: 8
+    category: "化学"
+    question: "メタンの化学式は？"
+    choices: ["CH4", "C2H6", "C3H8", "CH3OH"]
+    answer: 0
+  - id: 9
+    category: "化学"
+    question: "イオン結合の例はどれ？"
+    choices: ["H2O", "NaCl", "CH4", "CO2"]
+    answer: 1
+  - id: 10
+    category: "化学"
+    question: "触媒の働きは？"
+    choices: ["平衡を変える", "反応熱を増やす", "活性化エネルギーを下げる", "生成物を増やす"]
+    answer: 2
+
+  - id: 11
+    category: "人体"
+    question: "赤血球の主な働きは？"
+    choices: ["免疫", "酸素運搬", "血液凝固", "ホルモン分泌"]
+    answer: 1
+  - id: 12
+    category: "人体"
+    question: "心臓の心室はいくつ？"
+    choices: ["1", "2", "3", "4"]
+    answer: 1
+  - id: 13
+    category: "人体"
+    question: "インスリンを分泌する臓器は？"
+    choices: ["肝臓", "膵臓", "腎臓", "甲状腺"]
+    answer: 1
+  - id: 14
+    category: "人体"
+    question: "神経伝達物質でないものは？"
+    choices: ["ドーパミン", "アセチルコリン", "セロトニン", "ヘモグロビン"]
+    answer: 3
+  - id: 15
+    category: "人体"
+    question: "呼吸で主に吸う気体は？"
+    choices: ["酸素", "窒素", "二酸化炭素", "アルゴン"]
+    answer: 1
+  - id: 16
+    category: "人体"
+    question: "骨の主成分は？"
+    choices: ["セルロース", "キチン", "ヒドロキシアパタイト", "ケラチン"]
+    answer: 2
+  - id: 17
+    category: "人体"
+    question: "腎臓の機能単位は？"
+    choices: ["ニューロン", "ネフロン", "サルコメア", "肺胞"]
+    answer: 1
+  - id: 18
+    category: "人体"
+    question: "血液凝固に関与するのは？"
+    choices: ["白血球", "赤血球", "血小板", "リンパ球"]
+    answer: 2
+  - id: 19
+    category: "人体"
+    question: "視覚の受容体はどこ？"
+    choices: ["網膜", "角膜", "虹彩", "水晶体"]
+    answer: 0
+  - id: 20
+    category: "人体"
+    question: "体温調節の中枢は？"
+    choices: ["小脳", "延髄", "視床下部", "大脳皮質"]
+    answer: 2
+
+  - id: 21
+    category: "生物"
+    question: "細胞のエネルギー通貨は？"
+    choices: ["NADH", "ATP", "GTP", "ADP"]
+    answer: 1
+  - id: 22
+    category: "生物"
+    question: "DNAの塩基にないものは？"
+    choices: ["アデニン", "ウラシル", "グアニン", "シトシン"]
+    answer: 1
+  - id: 23
+    category: "生物"
+    question: "光合成の主な場は？"
+    choices: ["ミトコンドリア", "葉緑体", "小胞体", "ゴルジ体"]
+    answer: 1
+  - id: 24
+    category: "生物"
+    question: "生物の分類で界の直下は？"
+    choices: ["網", "門", "科", "属"]
+    answer: 1
+  - id: 25
+    category: "生物"
+    question: "原核生物にない構造は？"
+    choices: ["核膜", "細胞膜", "リボソーム", "細胞壁"]
+    answer: 0
+  - id: 26
+    category: "生物"
+    question: "酵素活性に最も影響するのは？"
+    choices: ["光", "温度とpH", "音", "圧力"]
+    answer: 1
+  - id: 27
+    category: "生物"
+    question: "浸透圧で正しいのは？"
+    choices: ["水は低濃度へ", "溶質が移動", "水は高濃度へ", "圧は温度に無関係"]
+    answer: 2
+  - id: 28
+    category: "生物"
+    question: "常染色体の説明で正しいのは？"
+    choices: ["性決定のみ関与", "体細胞に存在", "減数分裂で消失", "ミトコンドリアにある"]
+    answer: 1
+  - id: 29
+    category: "生物"
+    question: "相利共生の例は？"
+    choices: ["寄生バチと宿主", "コロナとヒト", "地衣類", "ノミとイヌ"]
+    answer: 2
+  - id: 30
+    category: "生物"
+    question: "生態系の生産者は？"
+    choices: ["草食動物", "肉食動物", "分解者", "光合成生物"]
+    answer: 3
